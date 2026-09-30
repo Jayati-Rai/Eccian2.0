@@ -136,7 +136,7 @@ Firebase Realtime Database
 
 ## Architecture
 
-The application follows a lightweight Android architecture built around Activities, Fragments, ViewModels, and Firebase services.
+The application uses an Android architecture based on Activities, Fragments, ViewModels, and Firebase services. The current implementation remains relatively lightweight, with some data and Firebase operations handled directly within Activities.
 
 ```text
 ┌───────────────────────────────┐
@@ -160,7 +160,7 @@ The application follows a lightweight Android architecture built around Activiti
 └───────────────────────────────┘
 ```
 
-The current implementation is intentionally relatively simple and does not yet follow a fully separated repository/domain architecture.
+The current implementation is relatively simple and does not yet use a fully separated repository and domain layer.
 
 ---
 
@@ -177,8 +177,6 @@ Used to store information associated with uploaded resources, including document
 Used to store the actual PDF files.
 
 The application uses the selected resource type, academic year, and subject to organize and retrieve resources.
-
-> **Note:** The Firebase Storage path structure is still being reviewed and will be documented in more detail once the upload and retrieval paths are standardized.
 
 ---
 
@@ -227,7 +225,7 @@ Before running the project, make sure you have:
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Jayati-Rai/Eccian2.0.git
 ```
 
 Open the project in Android Studio and allow Gradle to synchronize the project.
@@ -255,10 +253,6 @@ app/google-services.json
 ---
 
 ## Screenshots
-
-Screenshots will be added here as the project documentation is finalized.
-
-Example:
 
 | Home         | Notes        |
 | ------------ | ------------ |
@@ -366,6 +360,6 @@ License information will be added when the project's distribution terms are fina
 
 **Jayati Rai**
 
-Android Developer | Java | Kotlin | Firebase
+Android Developer 
 
-[GitHub](github-profile-url) · [LinkedIn](linkedin-profile-url)
+[GitHub](https://github.com/Jayati-Rai) · [LinkedIn](https://www.linkedin.com/in/jayati-rai/)
