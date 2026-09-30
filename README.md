@@ -268,9 +268,7 @@ Example:
 
 | Subject Selection | Notifications |
 | ----------------- | ------------- |
-| <img width="720" height="1600" alt="subject" src="https://github.com/user-attachments/assets/9f15d2db-5503-4974-8099-608237e38ed1" />
-      | <img width="720" height="1600" alt="Notification" src="https://github.com/user-attachments/assets/eee29c6e-1dff-4de3-89be-6993160ad2ca" />
-  |
+| <img width="720" height="1600" alt="subject" src="https://github.com/user-attachments/assets/9f15d2db-5503-4974-8099-608237e38ed1" /> |  <img width="720" height="1600" alt="Notification" src="https://github.com/user-attachments/assets/96aa465b-8f48-4bd6-ae8e-d3b03c204bd1" />  |
 
 ---
 
