@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ECCians 2.0</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_notes">Notes</string>
+    <string name="title_pyqs">PYQs</string>
+    <string name="title_extras">Extras</string>
+    <string name="title_about">About</string>
+    <string name="title_logout">Logout</string>
+
+    <string name="Todo">"1. Setting 2. About Us 3. Profile 4.Putting the notes there"</string>
+    <string name="First"><a href="https://www.eccprayagraj.org/uploads/notices/Notice%20regarding%20Ramnavmi%20Holiday-O4qX4Q.pdf">"Ramnavmi Holiday notice"</a></string>
+    <string name="Second"><a href="https://www.eccprayagraj.org/uploads/notices/M.A.%20-%20M.%20Sc%20Semester-I%20-%20III%20Scrutiny%20Result%202023-24-eqsmca.pdf">"Scrutiny Result"</a></string>
+    <string name="Third"><a href="https://www.eccprayagraj.org/uploads/notices/Alumni%20Meet%20at%20Allahabad%20University-sKRz7h.pdf">"Alumni meet at Allahabad University"</a></string>
+    <string name="Fourth"><a href="https://www.eccprayagraj.org/uploads/notices/B._Ed._Semester-II_Exam._Schedule-1--FHD1YM.pdf">"B.Ed. Semester-II Exam"</a></string>
+    <string name="Fifth"><a href="https://www.eccprayagraj.org/uploads/notices/Alumni%20Meet%20at%20Allahabad%20University-sKRz7h.pdf">"Alumni Meet at Allahabad university"</a></string>
+    <string name="Sixth"><a href="https://www.eccprayagraj.org/uploads/notices/UG%20and%20PG%20Classes%20will%20Suspended%20after%204th%20Period%20on%2003.04.2024-KuRCHO.pdf">"Notice regarding classes suspension"</a></string>
+    <string name="Seventh"><a href="https://www.eccprayagraj.org/uploads/notices/IMG-20240320-WA0000-vuNtXR.pdf">"Notice regarding Scrutiny"</a></string>
+    <string name="Eighth"><a href="https://www.eccprayagraj.org/uploads/notices/Notice%20regarding%20Holiday%20for%20Holi%20-%20Good%20Friday-xTaoTM.pdf">"Holiday Notice"</a></string>
+    <string name="Ninth"><a href="https://www.eccprayagraj.org/uploads/notices/Tutorial%20Examination%20Schedule%20for%20B.%20Com.%20Sem.-%20II%20-%20IV%20-Session%202023-24--rvjXrT.pdf">"Schedule for Tutorial Examination"</a></string>
+    <string name="Tenth"><a href="https://www.eccprayagraj.org/uploads/notices/ISO%20Certificates-aTkhs1.pdf">"ISO Certification"</a></string>
+    <string name="Eleventh"><a href="https://www.eccprayagraj.org/uploads/notices/Mahashivratri%20Holiday%20Notice%20-08.03.2024--QbUOkD.pdf">"Holiday Notice"</a></string>
+    <string name="Twelveth"><a href="https://www.eccprayagraj.org/uploads/notices/SEC%20Sems-IV%20-Swapnil--i0Wf7g.pdf">"Notice Sem-IV"</a></string>
+    <string name="Thirteenth"><a href="https://www.eccprayagraj.org/uploads/notices/Notification%20regarding%20Instructions%20for%20Keep%20College%20Campus%20Clean%20-%20Green-u4sbwy.pdf">"Circular"</a></string>
+    <string name="Fourteenth"><a href="https://www.eccprayagraj.org/uploads/notices/ALL_Notice_scrutiny-ri2orD.pdf">"Scrutiny Notice"</a></string>
+    <string name="Fifteenth"><a href="https://www.eccprayagraj.org/uploads/notices/Teaching%20suspended%20on%20Sports%20Day%20-01.03.2024--HdnpLL.pdf">"Sports day notice"</a></string>
+    <string name="Sixteenth"><a href="https://www.eccprayagraj.org/uploads/notices/Tutorial%20Test%20Schedule%20with%20Notice-y3Kcnv.pdf">"IMPORTANT NOTICE REGARDING TUTORIAL EXAMINATION
+        "</a></string>
+    <string name="Seventeenth"><a href="https://www.eccprayagraj.org/uploads/notices/Annual%20Sports%20Competition-LGKD31.pdf">"Annual Sports day Notice"</a></string>
+    <string name="add_file">ADD FILE</string>
+    <string name="database">Database</string>
+
+
+</resources>
